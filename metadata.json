@@ -1,0 +1,5 @@
+{
+  "name": "StartupDeck",
+  "description": "A Tinder-style startup discovery platform where users swipe to like or skip trending startups.",
+  "requestFramePermissions": []
+}
